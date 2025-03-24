@@ -111,5 +111,5 @@ async def help_staff(interaction: discord.Interaction):
     await interaction.response.send_message(embed=embed)
 
 # Avvia il bot
-TOKEN = "MTM1MzMxOTMwMzc4ODg4ODE1NA.GWAD_C.ioDWQHRCVT_1D0PdwYWOvjwMipEnpJ_G2ElMg4"
+TOKEN = "IL_TUO_TOKEN_DISCORD"
 bot.run(TOKEN)
